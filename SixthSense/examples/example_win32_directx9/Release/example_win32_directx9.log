@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\23\Бесплатные меню\imgui-1.77 — копия\examples\example_win32_directx9\slider.hpp(87,107): warning C4244: аргумент: преобразование "ImGuiSliderFlags" в "float", возможна потеря данных
+D:\23\Бесплатные меню\imgui-1.77 — копия\examples\example_win32_directx9\slider.hpp(103,15): warning C4189: value_buf_end: локальная переменная инициализирована, но не использована
+D:\23\Бесплатные меню\imgui-1.77 — копия\examples\example_win32_directx9\combo.hpp(37,8): warning C4189: has_window_size_constraint: локальная переменная инициализирована, но не использована
+  Создание кода
+  2 of 1663 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    58 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  example_win32_directx9.vcxproj -> D:\23\Бесплатные меню\imgui-1.77 — копия\examples\example_win32_directx9\Release\example_win32_directx9.exe
