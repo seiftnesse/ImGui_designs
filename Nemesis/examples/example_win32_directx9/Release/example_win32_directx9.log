@@ -1,0 +1,13 @@
+﻿  imgui_widgets.cpp
+c:\users\lycrus\desktop\nemesis\imgui_widgets.cpp(3508): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\lycrus\desktop\nemesis\imgui_widgets.cpp(7461): warning C4100: size_arg: неиспользованный формальный параметр
+c:\users\lycrus\desktop\nemesis\imgui_widgets.cpp(7482): warning C4101: active: неиспользованная локальная переменная
+c:\users\lycrus\desktop\nemesis\imgui_widgets.cpp(7521): warning C4189: alphamodulate: локальная переменная инициализирована, но не использована
+c:\users\lycrus\desktop\nemesis\imgui_widgets.cpp(7563): warning C4100: border: неиспользованный формальный параметр
+c:\users\lycrus\desktop\nemesis\imgui_widgets.cpp(7596): warning C4189: test: локальная переменная инициализирована, но не использована
+  Создание кода
+  18 of 2435 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  example_win32_directx9.vcxproj -> C:\Users\Lycrus\Desktop\nemesis\examples\example_win32_directx9\Release\example_win32_directx9.exe
